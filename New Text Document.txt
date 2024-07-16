@@ -1,0 +1,5 @@
+    # # Save the trained model
+    # torch.save({
+    #     'encoder_state_dict' encoder.state_dict(),
+    #     'valuator_state_dict' scorer.state_dict(),
+    # }, 'gpn_model.pth')
