@@ -21,5 +21,6 @@ Bạn có thể truy cập vào file ppt mà tôi đã trình bày để có th�
 
 Bạn có thể truy cập vào file test.py để có thể thực hiện dự đoạn nhãn của dữ liệu có cấu trúc đồ thị.
 Dưới đây là kết quả ví dụ sau thi tôi thực thi file test.py trên dữ liệu Amazon
+
 ![image](https://github.com/user-attachments/assets/94b5f18f-6a54-4cf2-8bb9-df9508ba2be3)
 
